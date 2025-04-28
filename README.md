@@ -1,4 +1,6 @@
-# EXNO:4-DS
+# Name:Manimaran V
+# Reg.no:212224220060
+# EXNO:4-Feature Scaling and Selection
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.

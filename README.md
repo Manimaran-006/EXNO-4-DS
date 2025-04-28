@@ -230,6 +230,7 @@ selected_feature_indices = selector.get_support(indices=True)
 selected_features = X.columns[selected_feature_indices]
 
 print("Selected Features:", selected_features)
-```      
+```
+![image](https://github.com/user-attachments/assets/37042179-fa08-49b9-833b-11a3900e815a)   
 # RESULT:
         Thus, Feature selection and Feature scaling has been used on the given dataset.
